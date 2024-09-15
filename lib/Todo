@@ -1,0 +1,12 @@
+UI gives 'events' to Bloc;
+Bloc gives 'state' to UI;
+
+What are my events?
+first bloc
+1. getAllPosts
+2. refreshAllPosts
+
+second bloc
+3. addPost
+4. deletePost
+5. updatePost
